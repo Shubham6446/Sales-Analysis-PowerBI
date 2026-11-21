@@ -1,0 +1,11 @@
+-- Replace table/column names if your Power BI model uses different names.
+
+Total Sales = SUM(Sales[Sales])
+
+Total Orders = DISTINCTCOUNT(Sales[Order ID])
+
+Average Order Value = DIVIDE([Total Sales], [Total Orders], 0)
+
+Unique Products = DISTINCTCOUNT(Sales[Product])
+
+Sales YTD = TOTALYTD([Total Sales], Sales[Order Date])

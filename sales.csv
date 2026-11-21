@@ -1,0 +1,21 @@
+Order ID,Order Date,Product,Category,Region,Sales
+1001,2026-01-03,Laptop,Electronics,North,55000
+1002,2026-01-05,Phone,Electronics,South,22000
+1003,2026-01-08,Desk,Furniture,West,12000
+1004,2026-01-12,Chair,Furniture,East,6500
+1005,2026-02-02,Monitor,Electronics,North,18000
+1006,2026-02-09,Phone,Electronics,West,24000
+1007,2026-02-14,Desk,Furniture,South,13500
+1008,2026-02-19,Notebook,Stationery,East,900
+1009,2026-03-01,Laptop,Electronics,West,60000
+1010,2026-03-04,Chair,Furniture,North,7000
+1011,2026-03-11,Pen,Stationery,South,300
+1012,2026-03-18,Monitor,Electronics,East,19500
+1013,2026-04-02,Phone,Electronics,North,23000
+1014,2026-04-07,Desk,Furniture,West,14000
+1015,2026-04-12,Notebook,Stationery,South,1200
+1016,2026-04-20,Laptop,Electronics,East,58000
+1017,2026-05-01,Chair,Furniture,South,7200
+1018,2026-05-06,Pen,Stationery,West,450
+1019,2026-05-13,Monitor,Electronics,North,20500
+1020,2026-05-21,Phone,Electronics,East,25000
